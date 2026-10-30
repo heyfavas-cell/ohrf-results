@@ -1,0 +1,19 @@
+"""Run parameters fixed before the measurement (tag `p0-prereg`). Changing one after the tag voids the run."""
+BENCH_VERSION = "2.3.0"
+FAMILIES = ("qft", "qpeexact", "qaoa", "vqe_two_local", "graphstate", "wstate", "dj", "qnn")
+SIZES = (4, 8, 12, 16)
+SEEDS = (1, 2, 3, 4, 5)
+CHAIN_SEED = 1
+QCEC_TIMEOUT_S = 60
+QCEC_HARD_WALL_S = 120
+EXTRA_SEED_CAP = 300
+GUOQ_COMMIT = "97c12a5"
+GUOQ_BUDGET_S = 300
+BOOTSTRAP_N = 10000
+BOOTSTRAP_SEED = 20261012
+GO = 0.02
+GO_ADJUSTED = 0.005
+HEADROOM_MIN = 0.0025
+GO_LOWER = 0.01
+ADJUSTED_LOWER = 0.0
+HEADROOM_LOWER = 0.0

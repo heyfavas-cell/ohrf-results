@@ -1,0 +1,339 @@
+{
+ "peak_gb_by_size": {
+  "6": 1.003,
+  "8": 1.026,
+  "10": 1.122,
+  "12": 1.141,
+  "14": 1.191,
+  "16": 1.388,
+  "18": 1.302,
+  "20": 1.327,
+  "22": 8.056
+ },
+ "rows": [
+  {
+   "case": "dev-6-erdos_renyi-p2-r0",
+   "size": 6,
+   "private_gb": 0.995,
+   "threads": 50,
+   "cores": 3.23,
+   "seconds": 0.75,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-6-regular3-p3-r0",
+   "size": 6,
+   "private_gb": 0.996,
+   "threads": 50,
+   "cores": 4.13,
+   "seconds": 0.64,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-6-regular4-p1-r0",
+   "size": 6,
+   "private_gb": 0.995,
+   "threads": 50,
+   "cores": 2.09,
+   "seconds": 0.63,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-6-regular4-p4-r0",
+   "size": 6,
+   "private_gb": 1.003,
+   "threads": 51,
+   "cores": 4.37,
+   "seconds": 0.68,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-8-erdos_renyi-p1-r0",
+   "size": 8,
+   "private_gb": 1.017,
+   "threads": 50,
+   "cores": 3.78,
+   "seconds": 0.67,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-8-erdos_renyi-p4-r0",
+   "size": 8,
+   "private_gb": 1.02,
+   "threads": 51,
+   "cores": 3.9,
+   "seconds": 0.68,
+   "answer": "equivalent"
+  },
+  {
+   "case": "dev-8-regular3-p2-r0",
+   "size": 8,
+   "private_gb": 1.017,
+   "threads": 50,
+   "cores": 2.05,
+   "seconds": 0.65,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-8-regular4-p3-r0",
+   "size": 8,
+   "private_gb": 1.026,
+   "threads": 51,
+   "cores": 3.85,
+   "seconds": 0.66,
+   "answer": "equivalent"
+  },
+  {
+   "case": "dev-10-erdos_renyi-p3-r0",
+   "size": 10,
+   "private_gb": 1.062,
+   "threads": 50,
+   "cores": 3.06,
+   "seconds": 0.69,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-10-regular3-p1-r0",
+   "size": 10,
+   "private_gb": 1.04,
+   "threads": 49,
+   "cores": 2.54,
+   "seconds": 0.68,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-10-regular3-p4-r0",
+   "size": 10,
+   "private_gb": 1.122,
+   "threads": 51,
+   "cores": 14.87,
+   "seconds": 0.73,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-10-regular4-p2-r0",
+   "size": 10,
+   "private_gb": 1.062,
+   "threads": 51,
+   "cores": 6.93,
+   "seconds": 0.67,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-12-erdos_renyi-p2-r0",
+   "size": 12,
+   "private_gb": 1.077,
+   "threads": 51,
+   "cores": 9.67,
+   "seconds": 0.75,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-12-regular3-p3-r0",
+   "size": 12,
+   "private_gb": 1.113,
+   "threads": 47,
+   "cores": 7.36,
+   "seconds": 0.71,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-12-regular4-p1-r0",
+   "size": 12,
+   "private_gb": 1.062,
+   "threads": 49,
+   "cores": 2.8,
+   "seconds": 0.67,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-12-regular4-p4-r0",
+   "size": 12,
+   "private_gb": 1.141,
+   "threads": 45,
+   "cores": 9.94,
+   "seconds": 0.72,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-14-erdos_renyi-p1-r0",
+   "size": 14,
+   "private_gb": 1.086,
+   "threads": 50,
+   "cores": 7.0,
+   "seconds": 0.68,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-14-erdos_renyi-p4-r0",
+   "size": 14,
+   "private_gb": 1.155,
+   "threads": 50,
+   "cores": 8.47,
+   "seconds": 0.76,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-14-regular3-p2-r0",
+   "size": 14,
+   "private_gb": 1.148,
+   "threads": 51,
+   "cores": 6.65,
+   "seconds": 0.7,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-14-regular4-p3-r0",
+   "size": 14,
+   "private_gb": 1.191,
+   "threads": 51,
+   "cores": 9.62,
+   "seconds": 0.72,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-16-erdos_renyi-p3-r0",
+   "size": 16,
+   "private_gb": 1.388,
+   "threads": 51,
+   "cores": 23.27,
+   "seconds": 1.65,
+   "answer": "equivalent"
+  },
+  {
+   "case": "dev-16-regular3-p1-r0",
+   "size": 16,
+   "private_gb": 1.113,
+   "threads": 51,
+   "cores": 5.49,
+   "seconds": 0.7,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-16-regular3-p4-r0",
+   "size": 16,
+   "private_gb": 1.285,
+   "threads": 51,
+   "cores": 19.23,
+   "seconds": 0.85,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-16-regular4-p2-r0",
+   "size": 16,
+   "private_gb": 1.126,
+   "threads": 51,
+   "cores": 5.19,
+   "seconds": 0.75,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-18-erdos_renyi-p2-r0",
+   "size": 18,
+   "private_gb": 1.171,
+   "threads": 51,
+   "cores": 4.71,
+   "seconds": 0.72,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-18-regular3-p3-r0",
+   "size": 18,
+   "private_gb": 1.179,
+   "threads": 51,
+   "cores": 6.81,
+   "seconds": 0.77,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-18-regular4-p1-r0",
+   "size": 18,
+   "private_gb": 1.131,
+   "threads": 51,
+   "cores": 3.2,
+   "seconds": 0.65,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-18-regular4-p4-r0",
+   "size": 18,
+   "private_gb": 1.302,
+   "threads": 51,
+   "cores": 19.25,
+   "seconds": 0.88,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-20-erdos_renyi-p1-r0",
+   "size": 20,
+   "private_gb": 1.165,
+   "threads": 51,
+   "cores": 5.02,
+   "seconds": 0.7,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-20-erdos_renyi-p4-r0",
+   "size": 20,
+   "private_gb": 1.327,
+   "threads": 51,
+   "cores": 20.36,
+   "seconds": 0.9,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-20-regular3-p2-r0",
+   "size": 20,
+   "private_gb": 1.206,
+   "threads": 51,
+   "cores": 9.18,
+   "seconds": 0.72,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-20-regular4-p3-r0",
+   "size": 20,
+   "private_gb": 1.233,
+   "threads": 51,
+   "cores": 9.81,
+   "seconds": 0.9,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-22-erdos_renyi-p3-r0",
+   "size": 22,
+   "private_gb": 1.244,
+   "threads": 51,
+   "cores": 15.68,
+   "seconds": 0.82,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-22-regular3-p1-r0",
+   "size": 22,
+   "private_gb": 1.176,
+   "threads": 47,
+   "cores": 3.6,
+   "seconds": 0.67,
+   "answer": "equivalent_up_to_global_phase"
+  },
+  {
+   "case": "dev-22-regular3-p4-r0",
+   "size": 22,
+   "private_gb": 8.056,
+   "threads": 51,
+   "cores": 27.23,
+   "seconds": 120.63,
+   "answer": "hard_timeout"
+  },
+  {
+   "case": "dev-22-regular4-p2-r0",
+   "size": 22,
+   "private_gb": 1.23,
+   "threads": 51,
+   "cores": 8.43,
+   "seconds": 0.82,
+   "answer": "equivalent_up_to_global_phase"
+  }
+ ]
+}

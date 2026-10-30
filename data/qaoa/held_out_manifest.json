@@ -1,0 +1,1307 @@
+{
+ "held_out-10-erdos_renyi-p1-r0": {
+  "depth": 1,
+  "edges": 15,
+  "kind": "erdos_renyi",
+  "order": 71,
+  "seed": 1535322637,
+  "sha": "d228732707c9f0c6abc536d65b2c85428441b5e6b3d5ff1595b86f657d8ffa95",
+  "size": 10
+ },
+ "held_out-10-erdos_renyi-p3-r0": {
+  "depth": 3,
+  "edges": 21,
+  "kind": "erdos_renyi",
+  "order": 125,
+  "seed": 1266148480,
+  "sha": "4244804a5dada957b948c4daf614daeb6a573c322deac51f4d0c5bf38216b097",
+  "size": 10
+ },
+ "held_out-10-erdos_renyi-p3-r2": {
+  "depth": 3,
+  "edges": 20,
+  "kind": "erdos_renyi",
+  "order": 44,
+  "seed": 84824582,
+  "sha": "8009c8e90833110812d91b12ff9665940aad7ce0886c26f16c11d19278904f4f",
+  "size": 10
+ },
+ "held_out-10-erdos_renyi-p4-r0": {
+  "depth": 4,
+  "edges": 18,
+  "kind": "erdos_renyi",
+  "order": 98,
+  "seed": 3732151599,
+  "sha": "53454a91ad5b15aa6bc0c542ec3afd4b148f28164a48fd1201fe6d543ba63d61",
+  "size": 10
+ },
+ "held_out-10-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 19,
+  "kind": "erdos_renyi",
+  "order": 17,
+  "seed": 5449346,
+  "sha": "4a01619e18c515af5aec0a9abc456baa7bc1ac93d57feb609a9c5f032f3b459c",
+  "size": 10
+ },
+ "held_out-10-regular3-p1-r0": {
+  "depth": 1,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 86,
+  "seed": 3692985561,
+  "sha": "94d1e718cd8f92f50d8918989de7c1bae3003a03fff33a1a6b1ed19dd8368f9f",
+  "size": 10
+ },
+ "held_out-10-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 113,
+  "seed": 3910157506,
+  "sha": "1a4fd230af68af8b0f5c69141141c77d7c3ebf2edb51c7400bd5bf413822d01b",
+  "size": 10
+ },
+ "held_out-10-regular3-p2-r1": {
+  "depth": 2,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 140,
+  "seed": 3621511682,
+  "sha": "4c03efb15289fad9b251185842a4c2a229322fee2db4a06c6ae0d155f43406cb",
+  "size": 10
+ },
+ "held_out-10-regular3-p2-r2": {
+  "depth": 2,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 5,
+  "seed": 2963199358,
+  "sha": "1225b4a431dc2ecb0304610f1dd58c81062cc19063e7d74a2eb849cb41cef84a",
+  "size": 10
+ },
+ "held_out-10-regular3-p3-r0": {
+  "depth": 3,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 32,
+  "seed": 1098275430,
+  "sha": "640f9929a57ef3b09bee2945b6c160b14321d84de67eadc90154b9ef0d09d8bc",
+  "size": 10
+ },
+ "held_out-10-regular3-p4-r1": {
+  "depth": 4,
+  "edges": 15,
+  "kind": "regular3",
+  "order": 59,
+  "seed": 1585993999,
+  "sha": "ecf455e1ada6b37f75e93df3a190de4df57c457e871a55f4720b2d45c09d7bcd",
+  "size": 10
+ },
+ "held_out-10-regular4-p1-r0": {
+  "depth": 1,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 0,
+  "seed": 990062731,
+  "sha": "ca655c1ee23f38a02aea61426aa0552c06c58444a2ff513316b78ec646255037",
+  "size": 10
+ },
+ "held_out-10-regular4-p2-r0": {
+  "depth": 2,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 54,
+  "seed": 2905406849,
+  "sha": "a3869ca0f5dbba6e40a8e2e5621ce92ced9457041b0fcceabd2b2699a0ebd504",
+  "size": 10
+ },
+ "held_out-10-regular4-p2-r1": {
+  "depth": 2,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 108,
+  "seed": 3420580201,
+  "sha": "cdabb9a1e989b001eed8d972c4c4d8ede88735556984d1c1be9dfe5616855057",
+  "size": 10
+ },
+ "held_out-10-regular4-p3-r0": {
+  "depth": 3,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 27,
+  "seed": 1045118763,
+  "sha": "027cd030fbd3441421493ef742a3bd3423027ce26609ebe3f30ccf394cb9c43a",
+  "size": 10
+ },
+ "held_out-10-regular4-p3-r2": {
+  "depth": 3,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 135,
+  "seed": 975647669,
+  "sha": "eaef5267172220358259b747ee03cc939d8dca648cdda84beb42d20e772ac560",
+  "size": 10
+ },
+ "held_out-10-regular4-p4-r0": {
+  "depth": 4,
+  "edges": 20,
+  "kind": "regular4",
+  "order": 81,
+  "seed": 523337345,
+  "sha": "ff25b38fe419800090c0f41e09bdbec569879c430f5635f7b3d9e29db78ac227",
+  "size": 10
+ },
+ "held_out-12-erdos_renyi-p1-r0": {
+  "depth": 1,
+  "edges": 22,
+  "kind": "erdos_renyi",
+  "order": 62,
+  "seed": 226356701,
+  "sha": "40df5b384dbbfabfa6377e6da41170725e450c9b5e688980f9acd74b7f780e80",
+  "size": 12
+ },
+ "held_out-12-erdos_renyi-p2-r1": {
+  "depth": 2,
+  "edges": 21,
+  "kind": "erdos_renyi",
+  "order": 8,
+  "seed": 3539112658,
+  "sha": "03549b0c0c95a0283312b0cf047655e0662f6c10ec4c4fc9773093ba3aaafbbd",
+  "size": 12
+ },
+ "held_out-12-erdos_renyi-p3-r2": {
+  "depth": 3,
+  "edges": 24,
+  "kind": "erdos_renyi",
+  "order": 116,
+  "seed": 2977423588,
+  "sha": "1fc1cc3c01fd013fe70e4da524f7ecc0d697b72819effe0fda6b5f1ac985121d",
+  "size": 12
+ },
+ "held_out-12-erdos_renyi-p4-r0": {
+  "depth": 4,
+  "edges": 28,
+  "kind": "erdos_renyi",
+  "order": 35,
+  "seed": 4101593114,
+  "sha": "81f472645bdbabe780a352bfa8248066ad354fd6b844da7adbfa97f287a3e88c",
+  "size": 12
+ },
+ "held_out-12-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 21,
+  "kind": "erdos_renyi",
+  "order": 143,
+  "seed": 3194614756,
+  "sha": "7901a8bb72388a1c3085b34591abe5a062839faff432ae2b2d7f87e3b95dd529",
+  "size": 12
+ },
+ "held_out-12-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 20,
+  "kind": "erdos_renyi",
+  "order": 89,
+  "seed": 2497511397,
+  "sha": "cf52e6eed624b4a507bbb79274c41f572fa61ea9a50f8eed5b97694e7e526422",
+  "size": 12
+ },
+ "held_out-12-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 136,
+  "seed": 4252658995,
+  "sha": "82a9753d918d7c424e3eee99b2501a0b5a1a06150b2eb7f70c04b0c33aa5b7f9",
+  "size": 12
+ },
+ "held_out-12-regular3-p2-r0": {
+  "depth": 2,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 82,
+  "seed": 523323804,
+  "sha": "87e6a31f0be6fab450b08b3de07cda181fab7e7fe8e718ccae640171b2d6df6d",
+  "size": 12
+ },
+ "held_out-12-regular3-p2-r2": {
+  "depth": 2,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 55,
+  "seed": 3634560982,
+  "sha": "904c1198ef51178b4fcab8702fe528bb78bf717824ff550e810c9916da8147a7",
+  "size": 12
+ },
+ "held_out-12-regular3-p3-r1": {
+  "depth": 3,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 1,
+  "seed": 3467320392,
+  "sha": "a34e3ddea157d6cb39a08ee839eac9c1629a680bf78e1367c1ff5f4bc7e7bf04",
+  "size": 12
+ },
+ "held_out-12-regular3-p3-r2": {
+  "depth": 3,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 109,
+  "seed": 3486467893,
+  "sha": "f61d25abd9ddeb14d575041ec1f7e9d526ab257fd94e517c7b7803f87e23adf8",
+  "size": 12
+ },
+ "held_out-12-regular3-p4-r2": {
+  "depth": 4,
+  "edges": 18,
+  "kind": "regular3",
+  "order": 28,
+  "seed": 4005255525,
+  "sha": "76aa6281ccd51144eda2f38aa1a16b260c4722a8b5c412cb253b444253e920a4",
+  "size": 12
+ },
+ "held_out-12-regular4-p1-r0": {
+  "depth": 1,
+  "edges": 24,
+  "kind": "regular4",
+  "order": 47,
+  "seed": 2214111146,
+  "sha": "734741f54fd05c1fcadc6c142cd5180c14262b27e634f74cd2bc2083f9a8031f",
+  "size": 12
+ },
+ "held_out-12-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 24,
+  "kind": "regular4",
+  "order": 20,
+  "seed": 3729293270,
+  "sha": "ecc8729b00224f7a1b981f7a05663413f4ba26f163bee9147f8fb53d29541fe4",
+  "size": 12
+ },
+ "held_out-12-regular4-p4-r0": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "regular4",
+  "order": 101,
+  "seed": 1178276455,
+  "sha": "11d41d809f8f83c16d665c0e0606e17b26b6d66c5ac1fe7e088fcf1a12a05a93",
+  "size": 12
+ },
+ "held_out-12-regular4-p4-r1": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "regular4",
+  "order": 128,
+  "seed": 2118274676,
+  "sha": "fa092635ad65e473573c08eed9899b702ec904e817d7a6c5239ebaac44ebbca6",
+  "size": 12
+ },
+ "held_out-12-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "regular4",
+  "order": 74,
+  "seed": 450329800,
+  "sha": "c04f11a5799a21a1f942a9abc9d95ebf09485a4c786df1c6398cf51fd9b4d5a0",
+  "size": 12
+ },
+ "held_out-14-erdos_renyi-p1-r1": {
+  "depth": 1,
+  "edges": 29,
+  "kind": "erdos_renyi",
+  "order": 117,
+  "seed": 4089904926,
+  "sha": "2a36a70b946a5f4fbe2c208884218fe1f189b3dc7bc28a2a488144ae92d44728",
+  "size": 14
+ },
+ "held_out-14-erdos_renyi-p1-r2": {
+  "depth": 1,
+  "edges": 17,
+  "kind": "erdos_renyi",
+  "order": 36,
+  "seed": 2034206335,
+  "sha": "6749b0b54e1679b52eabbe8077a92ef26a5c2edb7cd59f2014e6b23b82f6a7d8",
+  "size": 14
+ },
+ "held_out-14-erdos_renyi-p2-r2": {
+  "depth": 2,
+  "edges": 28,
+  "kind": "erdos_renyi",
+  "order": 90,
+  "seed": 4146896731,
+  "sha": "3f1b7f1d8e4a64d2c05ba99f2a3476c1760235fff34236f11e310e367b960128",
+  "size": 14
+ },
+ "held_out-14-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 24,
+  "kind": "erdos_renyi",
+  "order": 63,
+  "seed": 2424259204,
+  "sha": "865b888573545035b8c127fa826b8a91af37a59de4091b9027d03090fa7b9d31",
+  "size": 14
+ },
+ "held_out-14-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 35,
+  "kind": "erdos_renyi",
+  "order": 9,
+  "seed": 3005036880,
+  "sha": "b5a2615b88d8f451b7ef6924fafa4267ea5f799c65538dec3923ee673cc5414f",
+  "size": 14
+ },
+ "held_out-14-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "erdos_renyi",
+  "order": 144,
+  "seed": 2534485091,
+  "sha": "05b82aeef451ec71011c03127e660463db55ddce11f2bf856cad833d176f69f4",
+  "size": 14
+ },
+ "held_out-14-regular3-p1-r0": {
+  "depth": 1,
+  "edges": 21,
+  "kind": "regular3",
+  "order": 40,
+  "seed": 1847061458,
+  "sha": "5c3e15b4688a288aab980674bbac9c09660510771f505a128e1e5ae5b34fdd19",
+  "size": 14
+ },
+ "held_out-14-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 21,
+  "kind": "regular3",
+  "order": 121,
+  "seed": 1455793351,
+  "sha": "24e952c1e1df951571ce8dcc553bc93916ade1536d393b8da84c97e9aa2d7bc7",
+  "size": 14
+ },
+ "held_out-14-regular3-p3-r0": {
+  "depth": 3,
+  "edges": 21,
+  "kind": "regular3",
+  "order": 13,
+  "seed": 4162857694,
+  "sha": "c3642b58dfc33a51dd42827888934ef3c13c812126b8d6cdd22ee5fda42ed43f",
+  "size": 14
+ },
+ "held_out-14-regular3-p3-r1": {
+  "depth": 3,
+  "edges": 21,
+  "kind": "regular3",
+  "order": 67,
+  "seed": 2400637521,
+  "sha": "e58214f375ef4f734f90f3d8bef960c6c7005c205027b64c2548c8e18dca041b",
+  "size": 14
+ },
+ "held_out-14-regular3-p4-r2": {
+  "depth": 4,
+  "edges": 21,
+  "kind": "regular3",
+  "order": 94,
+  "seed": 1336838938,
+  "sha": "1ee0c57cd856d56809b26bd6a78418e2908be6555629d9902b516ad8177e445c",
+  "size": 14
+ },
+ "held_out-14-regular4-p1-r0": {
+  "depth": 1,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 112,
+  "seed": 581845724,
+  "sha": "10412f8f77b3540ea37eb989c6567777d572d41629891fbd3134ef031d99af0a",
+  "size": 14
+ },
+ "held_out-14-regular4-p2-r2": {
+  "depth": 2,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 139,
+  "seed": 3744680841,
+  "sha": "c0943a6bf6959921bd54c3e1f6094b7c43c4f4dcfaa31cd57758ba32abebc9d9",
+  "size": 14
+ },
+ "held_out-14-regular4-p3-r0": {
+  "depth": 3,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 58,
+  "seed": 925138059,
+  "sha": "f8724787064d1dbc09cb9762fa00421a6df3486dcd6338bec546ef296704648e",
+  "size": 14
+ },
+ "held_out-14-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 85,
+  "seed": 309574327,
+  "sha": "9966253e893d0883a7fa46790c64d9e53c262d3e83e3fa01f4a6ae87c7ee1ef9",
+  "size": 14
+ },
+ "held_out-14-regular4-p4-r1": {
+  "depth": 4,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 4,
+  "seed": 469981592,
+  "sha": "c1910a8b17ddad8466705ec405913e24195fa3f95ff12b3296fe78719eb8ed91",
+  "size": 14
+ },
+ "held_out-14-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 28,
+  "kind": "regular4",
+  "order": 31,
+  "seed": 4142940453,
+  "sha": "0f3dc90e116975406e685e45f54820cbac34d273b2bf7df54348f62f292ab19e",
+  "size": 14
+ },
+ "held_out-16-erdos_renyi-p2-r1": {
+  "depth": 2,
+  "edges": 34,
+  "kind": "erdos_renyi",
+  "order": 133,
+  "seed": 245758446,
+  "sha": "c7a4bc8fce10c3cfaa9a8f41f3a1a646019e262a2828ac8f875963be04b22fe8",
+  "size": 16
+ },
+ "held_out-16-erdos_renyi-p3-r0": {
+  "depth": 3,
+  "edges": 25,
+  "kind": "erdos_renyi",
+  "order": 79,
+  "seed": 3109261261,
+  "sha": "b4df8b09ba673bf95221d19324fbac772c2df9a8407c720688855e952e8cca05",
+  "size": 16
+ },
+ "held_out-16-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 36,
+  "kind": "erdos_renyi",
+  "order": 106,
+  "seed": 315446393,
+  "sha": "9b4b8f98cfb32bb66c75a5c13df5e239ee6a8ce391d5c39767a4e540308021d6",
+  "size": 16
+ },
+ "held_out-16-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 28,
+  "kind": "erdos_renyi",
+  "order": 25,
+  "seed": 4171225746,
+  "sha": "840a91a35480d22962e851fed4c792724617f124fdde4987f20be4d0cad744c4",
+  "size": 16
+ },
+ "held_out-16-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 32,
+  "kind": "erdos_renyi",
+  "order": 52,
+  "seed": 736417036,
+  "sha": "b4536f7121cee0923b518cfd5ab3b12702ebf8184dd01e5ac60f8f876fbbaaae",
+  "size": 16
+ },
+ "held_out-16-regular3-p1-r0": {
+  "depth": 1,
+  "edges": 24,
+  "kind": "regular3",
+  "order": 105,
+  "seed": 1906161210,
+  "sha": "e8b6ed6fb99e093fd8f464a99e2bac0aff49d5dee3cee822ada90274c3a2818e",
+  "size": 16
+ },
+ "held_out-16-regular3-p1-r1": {
+  "depth": 1,
+  "edges": 24,
+  "kind": "regular3",
+  "order": 24,
+  "seed": 2979823772,
+  "sha": "f745eff045e0f40ce9656d99cf70527ed579193904922a88b16aedb3498df758",
+  "size": 16
+ },
+ "held_out-16-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 24,
+  "kind": "regular3",
+  "order": 78,
+  "seed": 2212633970,
+  "sha": "6dd512e6d6907e5a9701e46f2239b4213a26fdfccdeaf7bd7f5b38b8d0e59252",
+  "size": 16
+ },
+ "held_out-16-regular3-p4-r0": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "regular3",
+  "order": 132,
+  "seed": 4119271939,
+  "sha": "715b87f27e0f80171e538dc0eb7773f7b7061ebbf6b191d599a4eed8f76496c5",
+  "size": 16
+ },
+ "held_out-16-regular3-p4-r1": {
+  "depth": 4,
+  "edges": 24,
+  "kind": "regular3",
+  "order": 51,
+  "seed": 1815995036,
+  "sha": "102024005960597cb67b3f47e50e7c974f8d1a29959db4a197e8d62853d2c62b",
+  "size": 16
+ },
+ "held_out-16-regular4-p1-r0": {
+  "depth": 1,
+  "edges": 32,
+  "kind": "regular4",
+  "order": 66,
+  "seed": 3298399133,
+  "sha": "0b7c9a0e467929ef462953def16bae72a4ab55038e00054054af0d9e39d66cad",
+  "size": 16
+ },
+ "held_out-16-regular4-p1-r1": {
+  "depth": 1,
+  "edges": 32,
+  "kind": "regular4",
+  "order": 39,
+  "seed": 3186493718,
+  "sha": "9710406edd41bfcb45de7df4bd85a46a8a2f9ba0ea450073c10d23aec7d34744",
+  "size": 16
+ },
+ "held_out-16-regular4-p2-r2": {
+  "depth": 2,
+  "edges": 32,
+  "kind": "regular4",
+  "order": 120,
+  "seed": 1887698918,
+  "sha": "f6f027b55e4fdf800cf6b1239a35588989971f68f22083113138c32f91886610",
+  "size": 16
+ },
+ "held_out-16-regular4-p3-r0": {
+  "depth": 3,
+  "edges": 32,
+  "kind": "regular4",
+  "order": 12,
+  "seed": 3536095970,
+  "sha": "8bf7694f1583a038d9c96577a87fa0316fe76ba4da54eb5d501a7d9577256043",
+  "size": 16
+ },
+ "held_out-16-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 32,
+  "kind": "regular4",
+  "order": 93,
+  "seed": 1784543709,
+  "sha": "7e44aebdef6964321ecfbf58706ba75e4f4daa45221989019bde592d0c195e99",
+  "size": 16
+ },
+ "held_out-18-erdos_renyi-p2-r0": {
+  "depth": 2,
+  "edges": 31,
+  "kind": "erdos_renyi",
+  "order": 97,
+  "seed": 3344570183,
+  "sha": "631444bfcb57d776f91df43e874619a65c0934115e52809a12cba5080e8c0813",
+  "size": 18
+ },
+ "held_out-18-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 31,
+  "kind": "erdos_renyi",
+  "order": 43,
+  "seed": 1162198479,
+  "sha": "8e2fdb06d4fa7d1eb76cc342f3b675fb9eea4d01c3b717d1623c6a4e136b9154",
+  "size": 18
+ },
+ "held_out-18-erdos_renyi-p4-r0": {
+  "depth": 4,
+  "edges": 36,
+  "kind": "erdos_renyi",
+  "order": 16,
+  "seed": 399231271,
+  "sha": "104333f1334c6d64f319bc0423b615944b45837c16f9de5c61b37b4e75538da1",
+  "size": 18
+ },
+ "held_out-18-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 31,
+  "kind": "erdos_renyi",
+  "order": 70,
+  "seed": 385415295,
+  "sha": "3bbe3464e9a051ff1d03161e9640d5f3e19be52d0f89311a4b3f3d97b6ed9c3f",
+  "size": 18
+ },
+ "held_out-18-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 31,
+  "kind": "erdos_renyi",
+  "order": 124,
+  "seed": 3642904046,
+  "sha": "c0a6ea6529777412df8afc8bf2a2af0e5595909c00667fa9e5215673eca2049f",
+  "size": 18
+ },
+ "held_out-18-regular3-p1-r1": {
+  "depth": 1,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 56,
+  "seed": 1599668513,
+  "sha": "de051fd09c92aef49feda33c6c92a102ba6f643fc1975e0bee707e79894b48db",
+  "size": 18
+ },
+ "held_out-18-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 83,
+  "seed": 916190411,
+  "sha": "c74b1d294d985e6a8537b05145552aca3a9d68e1db3b9f9ec4b0231f1cee7f74",
+  "size": 18
+ },
+ "held_out-18-regular3-p2-r0": {
+  "depth": 2,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 110,
+  "seed": 1350604052,
+  "sha": "8614f626dbb66a849cf11da233175d44cc992c929f712a56e8882b6101457c22",
+  "size": 18
+ },
+ "held_out-18-regular3-p3-r0": {
+  "depth": 3,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 137,
+  "seed": 4211219264,
+  "sha": "4e14548a8c5aa4ef84806c4f284a9e1646319989cc4ef507e2a8ae97f8b7b155",
+  "size": 18
+ },
+ "held_out-18-regular3-p3-r1": {
+  "depth": 3,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 29,
+  "seed": 1400410706,
+  "sha": "b5a9e1935c86318474acb8c50a9d33d2e6ef53d6d6d5ef07e6a54d91da69f7fb",
+  "size": 18
+ },
+ "held_out-18-regular3-p4-r2": {
+  "depth": 4,
+  "edges": 27,
+  "kind": "regular3",
+  "order": 2,
+  "seed": 1513589764,
+  "sha": "407bd4ebd0856a18945924dbee815e8e040d93995854319d55c6a65048710659",
+  "size": 18
+ },
+ "held_out-18-regular4-p1-r2": {
+  "depth": 1,
+  "edges": 36,
+  "kind": "regular4",
+  "order": 119,
+  "seed": 3300441070,
+  "sha": "5ae1fbcaba870b15c770a81057664094ed54d7bb31b59f56d677eb4cd5028232",
+  "size": 18
+ },
+ "held_out-18-regular4-p2-r1": {
+  "depth": 2,
+  "edges": 36,
+  "kind": "regular4",
+  "order": 92,
+  "seed": 4072717010,
+  "sha": "b79f66df3d7d1ce100afc73746882a967c4bedd737c57a4312c325c74ea19812",
+  "size": 18
+ },
+ "held_out-18-regular4-p2-r2": {
+  "depth": 2,
+  "edges": 36,
+  "kind": "regular4",
+  "order": 65,
+  "seed": 4272802109,
+  "sha": "31ab3812ea29b2f784b1951f8430ebc0810949aa7e26bf111a3d354306a6c9af",
+  "size": 18
+ },
+ "held_out-18-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 36,
+  "kind": "regular4",
+  "order": 11,
+  "seed": 2556363764,
+  "sha": "bf88311e9258d7cf6720c6cec04eb019623f957edbfba37cb007b505832e61c0",
+  "size": 18
+ },
+ "held_out-18-regular4-p4-r1": {
+  "depth": 4,
+  "edges": 36,
+  "kind": "regular4",
+  "order": 38,
+  "seed": 3371050310,
+  "sha": "cf771d0a86a900ff386f24127eef0c12082c7095ceddfa8ec9c9eb6770710734",
+  "size": 18
+ },
+ "held_out-20-erdos_renyi-p1-r2": {
+  "depth": 1,
+  "edges": 37,
+  "kind": "erdos_renyi",
+  "order": 21,
+  "seed": 2052464813,
+  "sha": "bcdbf97a11c7df8d56b8875073a2021f42765028da6e6e2fb23cf175f9724da5",
+  "size": 20
+ },
+ "held_out-20-erdos_renyi-p2-r2": {
+  "depth": 2,
+  "edges": 34,
+  "kind": "erdos_renyi",
+  "order": 48,
+  "seed": 3469908904,
+  "sha": "5c12afd2790e44d9f72d845ec28721fed799a9e5fea8b9828ea1a67b798a3ec6",
+  "size": 20
+ },
+ "held_out-20-erdos_renyi-p3-r2": {
+  "depth": 3,
+  "edges": 43,
+  "kind": "erdos_renyi",
+  "order": 102,
+  "seed": 4032701336,
+  "sha": "f7b95030065359c00d364ac995097915ce7948ee4aa9723ce8df27160f2736ae",
+  "size": 20
+ },
+ "held_out-20-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 39,
+  "kind": "erdos_renyi",
+  "order": 129,
+  "seed": 3836909457,
+  "sha": "32b443fecdf99d1fda9e11a38150275e67d8cc3f74faf47468d05ccf9dd71671",
+  "size": 20
+ },
+ "held_out-20-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 35,
+  "kind": "erdos_renyi",
+  "order": 75,
+  "seed": 595361705,
+  "sha": "f7ebbf2d2283e22caac9e6b89789004712bea761fdd37472bb58d2e517b7251e",
+  "size": 20
+ },
+ "held_out-20-regular3-p1-r1": {
+  "depth": 1,
+  "edges": 30,
+  "kind": "regular3",
+  "order": 118,
+  "seed": 381433363,
+  "sha": "31837b870dfc26fa2c92c2a170caf8318139a4d5b1bb7ad9128c99e5e7eafa91",
+  "size": 20
+ },
+ "held_out-20-regular3-p2-r1": {
+  "depth": 2,
+  "edges": 30,
+  "kind": "regular3",
+  "order": 37,
+  "seed": 3433885335,
+  "sha": "9155e20da77a3992ef115ff708f7e58d9698dabb959e483c300ebbb885b02e2f",
+  "size": 20
+ },
+ "held_out-20-regular3-p2-r2": {
+  "depth": 2,
+  "edges": 30,
+  "kind": "regular3",
+  "order": 64,
+  "seed": 3933772654,
+  "sha": "3e455cc021899bc1c00626918ec38b9540882e16c7a6669b97d8bdec0bfe2609",
+  "size": 20
+ },
+ "held_out-20-regular3-p3-r2": {
+  "depth": 3,
+  "edges": 30,
+  "kind": "regular3",
+  "order": 10,
+  "seed": 2143573011,
+  "sha": "faa71dc18e430ca963f03447499476910585cfaceae066be4ac794ef68378481",
+  "size": 20
+ },
+ "held_out-20-regular3-p4-r0": {
+  "depth": 4,
+  "edges": 30,
+  "kind": "regular3",
+  "order": 91,
+  "seed": 589631999,
+  "sha": "21285edffe1920df421a7e357995aee244e4c24e641c925ff24005096d4648cf",
+  "size": 20
+ },
+ "held_out-20-regular4-p1-r1": {
+  "depth": 1,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 138,
+  "seed": 1163167758,
+  "sha": "6306a7439637f8a8af358005fe85e752b4f33b975a3da3d3a02125b446c73be7",
+  "size": 20
+ },
+ "held_out-20-regular4-p2-r2": {
+  "depth": 2,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 30,
+  "seed": 3404412556,
+  "sha": "acf90100f6c8f7217d76abb57342fffa1e4bb126b5c545ca0799c66ed28acd2a",
+  "size": 20
+ },
+ "held_out-20-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 57,
+  "seed": 105898503,
+  "sha": "4ba613104e76204f6ec1eadaea7c364b599f624ed0a1eb183cb31616dcb335c6",
+  "size": 20
+ },
+ "held_out-20-regular4-p4-r0": {
+  "depth": 4,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 84,
+  "seed": 2675517048,
+  "sha": "b725d1a7e9458ac59370786c94e26d097de249c5c36da29262c756d12272ead5",
+  "size": 20
+ },
+ "held_out-20-regular4-p4-r1": {
+  "depth": 4,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 3,
+  "seed": 1486871545,
+  "sha": "d49ba9b9b18c4f092890f68b4a5435617b5c91472f55d8f7763e0a5317a98ebc",
+  "size": 20
+ },
+ "held_out-20-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 40,
+  "kind": "regular4",
+  "order": 111,
+  "seed": 547581004,
+  "sha": "38da5aed92be78c9b774f0c28d8786b690d8d98b4a608047323aed9eef0019a3",
+  "size": 20
+ },
+ "held_out-22-erdos_renyi-p1-r0": {
+  "depth": 1,
+  "edges": 45,
+  "kind": "erdos_renyi",
+  "order": 88,
+  "seed": 2048672365,
+  "sha": "6f928610519d07c1750e8bcc468a5b9dc5d0f5e77c3d76cba7a372949ddd4bd5",
+  "size": 22
+ },
+ "held_out-22-erdos_renyi-p1-r2": {
+  "depth": 1,
+  "edges": 42,
+  "kind": "erdos_renyi",
+  "order": 34,
+  "seed": 434837439,
+  "sha": "139a236ec7c8efc44a06bc25a9ec08b0cfff4e1a3f595098b125b362f06616d7",
+  "size": 22
+ },
+ "held_out-22-erdos_renyi-p2-r0": {
+  "depth": 2,
+  "edges": 43,
+  "kind": "erdos_renyi",
+  "order": 7,
+  "seed": 2297202164,
+  "sha": "c1f2eca7625338465913c8e392f325201b17d93832bb1e5bfec65fab3c8b7199",
+  "size": 22
+ },
+ "held_out-22-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 42,
+  "kind": "erdos_renyi",
+  "order": 115,
+  "seed": 1455409795,
+  "sha": "93cf72cadcf7a9493d4ab847c3050ab7dfccd9d913227ac64401a2ab20535762",
+  "size": 22
+ },
+ "held_out-22-erdos_renyi-p4-r1": {
+  "depth": 4,
+  "edges": 39,
+  "kind": "erdos_renyi",
+  "order": 142,
+  "seed": 811511163,
+  "sha": "9eeaf61b0c5b5aaed5747c140c27ff5cf06b646b0e5ed3eea37ff6da1ffe8443",
+  "size": 22
+ },
+ "held_out-22-erdos_renyi-p4-r2": {
+  "depth": 4,
+  "edges": 44,
+  "kind": "erdos_renyi",
+  "order": 61,
+  "seed": 1678330306,
+  "sha": "2cc775e45d3d6d3344a80489b04f016db1da4a058d6cb7245d40bbc449af9ad9",
+  "size": 22
+ },
+ "held_out-22-regular3-p1-r0": {
+  "depth": 1,
+  "edges": 33,
+  "kind": "regular3",
+  "order": 69,
+  "seed": 387353920,
+  "sha": "f463d16463256736e892502d182c3ebf140f246a1e08dcfa07c0809625df0f02",
+  "size": 22
+ },
+ "held_out-22-regular3-p1-r2": {
+  "depth": 1,
+  "edges": 33,
+  "kind": "regular3",
+  "order": 15,
+  "seed": 2326234193,
+  "sha": "fc0cc7bb9544881de5e84894c826c871d32c155342d3d3c1e923a0d57552b75f",
+  "size": 22
+ },
+ "held_out-22-regular3-p2-r1": {
+  "depth": 2,
+  "edges": 33,
+  "kind": "regular3",
+  "order": 42,
+  "seed": 948236125,
+  "sha": "489bc17e8e4e461c1dece0243520878c3a73eaa94b67a0fa56f1b612be1d55ff",
+  "size": 22
+ },
+ "held_out-22-regular3-p4-r1": {
+  "depth": 4,
+  "edges": 33,
+  "kind": "regular3",
+  "order": 123,
+  "seed": 3200761904,
+  "sha": "73ad7e43e7933e4a9e2bb48f44e22649509d3cab74d02e0178836582f397c9f4",
+  "size": 22
+ },
+ "held_out-22-regular3-p4-r2": {
+  "depth": 4,
+  "edges": 33,
+  "kind": "regular3",
+  "order": 96,
+  "seed": 1801837232,
+  "sha": "1c035be6de6b95e7c6d0d7f02405a0d0dde565bf9cd1c77ce7b1195d4c898bed",
+  "size": 22
+ },
+ "held_out-22-regular4-p1-r0": {
+  "depth": 1,
+  "edges": 44,
+  "kind": "regular4",
+  "order": 22,
+  "seed": 4061320358,
+  "sha": "f59b1d3a5773e079a7f34602aebd1854b5ff76db12056a1a2c4ecc02ea609c64",
+  "size": 22
+ },
+ "held_out-22-regular4-p1-r1": {
+  "depth": 1,
+  "edges": 44,
+  "kind": "regular4",
+  "order": 103,
+  "seed": 4082283693,
+  "sha": "f36c62038c28992b26f6e08b57a924148a3ba79cfc8d232085d7e8c37c3d06d0",
+  "size": 22
+ },
+ "held_out-22-regular4-p1-r2": {
+  "depth": 1,
+  "edges": 44,
+  "kind": "regular4",
+  "order": 76,
+  "seed": 88652158,
+  "sha": "aa2d2ab4354fd296a587362e1dd44dcc0bd2593314965d9102d8af9dc8e3f65a",
+  "size": 22
+ },
+ "held_out-22-regular4-p3-r0": {
+  "depth": 3,
+  "edges": 44,
+  "kind": "regular4",
+  "order": 49,
+  "seed": 4239453794,
+  "sha": "dba506d54338fbcc62e0c9bbf7bf8aab7d37b972d5a500c2f07efaaf92900edc",
+  "size": 22
+ },
+ "held_out-22-regular4-p4-r0": {
+  "depth": 4,
+  "edges": 44,
+  "kind": "regular4",
+  "order": 130,
+  "seed": 2021830880,
+  "sha": "43b88e863226d5fbb5fb14ef2db861c24d5de206e019b277221d6742bf0a450c",
+  "size": 22
+ },
+ "held_out-6-erdos_renyi-p1-r0": {
+  "depth": 1,
+  "edges": 11,
+  "kind": "erdos_renyi",
+  "order": 50,
+  "seed": 1461244559,
+  "sha": "43c531db94211a80e4ef6b88ffef94d3c4f49b82d6ee0f1e3f771ec898b58434",
+  "size": 6
+ },
+ "held_out-6-erdos_renyi-p1-r2": {
+  "depth": 1,
+  "edges": 11,
+  "kind": "erdos_renyi",
+  "order": 131,
+  "seed": 1632609654,
+  "sha": "bbf67ee7f4350473b860a3a622e40dc6dc50c5c5c3ef68648d023d11b370f0c7",
+  "size": 6
+ },
+ "held_out-6-erdos_renyi-p2-r2": {
+  "depth": 2,
+  "edges": 11,
+  "kind": "erdos_renyi",
+  "order": 104,
+  "seed": 3577585200,
+  "sha": "813c6780ac3bf298db74ac4ee949ad224db304aa62a15ffd1e49fdcc21e5a644",
+  "size": 6
+ },
+ "held_out-6-erdos_renyi-p3-r0": {
+  "depth": 3,
+  "edges": 9,
+  "kind": "erdos_renyi",
+  "order": 23,
+  "seed": 3075466314,
+  "sha": "e76e7aaca8e161de087ed2ed48f9a06e51c9b7d5303efe35cd9278e880a3b847",
+  "size": 6
+ },
+ "held_out-6-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 10,
+  "kind": "erdos_renyi",
+  "order": 77,
+  "seed": 1935125510,
+  "sha": "7336137b4ab19cc9a7c015e9d398e34e6dc13a9335d9a8d03acb16be936ca51c",
+  "size": 6
+ },
+ "held_out-6-regular3-p2-r0": {
+  "depth": 2,
+  "edges": 9,
+  "kind": "regular3",
+  "order": 72,
+  "seed": 1601661861,
+  "sha": "2e3cd7da60c2e1edc3dc9127b9c37ecb73845682ced74c0cc1be069f7cc8274f",
+  "size": 6
+ },
+ "held_out-6-regular3-p2-r2": {
+  "depth": 2,
+  "edges": 9,
+  "kind": "regular3",
+  "order": 18,
+  "seed": 1731312559,
+  "sha": "f0863e2bafc31069524797e735cb2f8bc23f903f7090d6cde8a65662a87a88d1",
+  "size": 6
+ },
+ "held_out-6-regular3-p3-r0": {
+  "depth": 3,
+  "edges": 9,
+  "kind": "regular3",
+  "order": 45,
+  "seed": 695383246,
+  "sha": "3dd7fb9d119a3575088605b3a691571b205c7ca3558dcfd34ca847ca3427a7f7",
+  "size": 6
+ },
+ "held_out-6-regular3-p4-r0": {
+  "depth": 4,
+  "edges": 9,
+  "kind": "regular3",
+  "order": 126,
+  "seed": 2026017013,
+  "sha": "3103f742b0b12b8e0b592011150674b4146a639bf0844d1bdf7ef52b589eb469",
+  "size": 6
+ },
+ "held_out-6-regular3-p4-r1": {
+  "depth": 4,
+  "edges": 9,
+  "kind": "regular3",
+  "order": 99,
+  "seed": 3032675851,
+  "sha": "33e31d8fc9de534fe018658d5f9969d58cea0e92f35ae3c7e5d3becb31fafaf7",
+  "size": 6
+ },
+ "held_out-6-regular4-p2-r0": {
+  "depth": 2,
+  "edges": 12,
+  "kind": "regular4",
+  "order": 19,
+  "seed": 2339900430,
+  "sha": "01840ff9564f0cc9e694c988687fd8e69cbc6aa28990877098bce7cedc67b34a",
+  "size": 6
+ },
+ "held_out-6-regular4-p2-r2": {
+  "depth": 2,
+  "edges": 12,
+  "kind": "regular4",
+  "order": 46,
+  "seed": 3909532300,
+  "sha": "f940908400f8fccc681ed21a3cb928bd199d19a0f98502a2d22b6eee9d011d43",
+  "size": 6
+ },
+ "held_out-6-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 12,
+  "kind": "regular4",
+  "order": 127,
+  "seed": 3477049779,
+  "sha": "2501e3bbafeab7f54d5276c75e72891d933840448b04cabf5be1140bb5b6f065",
+  "size": 6
+ },
+ "held_out-6-regular4-p3-r2": {
+  "depth": 3,
+  "edges": 12,
+  "kind": "regular4",
+  "order": 100,
+  "seed": 2563057781,
+  "sha": "c4c917f9dbdf066cd9b84f14c3acaf69ca2eb56fe7ecce970b9d4f34d96dbbf4",
+  "size": 6
+ },
+ "held_out-6-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 12,
+  "kind": "regular4",
+  "order": 73,
+  "seed": 3209843692,
+  "sha": "b21e9b96cc3692de0853636df0e02a3e18d9fa999c7611d29091a8464fb9abc1",
+  "size": 6
+ },
+ "held_out-8-erdos_renyi-p1-r0": {
+  "depth": 1,
+  "edges": 11,
+  "kind": "erdos_renyi",
+  "order": 68,
+  "seed": 460434862,
+  "sha": "4063be4f112caf4482fa7af220dea13b7bdf0332ea791e473f426dc7fc28bf9c",
+  "size": 8
+ },
+ "held_out-8-erdos_renyi-p1-r2": {
+  "depth": 1,
+  "edges": 14,
+  "kind": "erdos_renyi",
+  "order": 41,
+  "seed": 4254346097,
+  "sha": "8510d110cf9b3446a0212c11f018090517e7b9ac7f013c38fa0143eec2d6e753",
+  "size": 8
+ },
+ "held_out-8-erdos_renyi-p2-r0": {
+  "depth": 2,
+  "edges": 15,
+  "kind": "erdos_renyi",
+  "order": 122,
+  "seed": 1685044382,
+  "sha": "605d5f26db3370be35a19d18aa829d11e0564f802249831b631e04a8eb1082bb",
+  "size": 8
+ },
+ "held_out-8-erdos_renyi-p2-r2": {
+  "depth": 2,
+  "edges": 15,
+  "kind": "erdos_renyi",
+  "order": 95,
+  "seed": 4277538090,
+  "sha": "41f27a5684eff4a5b329aea65e475ef2d09466130475878245c7f0b8f307004f",
+  "size": 8
+ },
+ "held_out-8-erdos_renyi-p3-r1": {
+  "depth": 3,
+  "edges": 17,
+  "kind": "erdos_renyi",
+  "order": 14,
+  "seed": 1575208388,
+  "sha": "4875e70282176e136c1493725cd1aaadfd27bbddcd1e1a4cabac6ca00f1ddab6",
+  "size": 8
+ },
+ "held_out-8-regular3-p2-r2": {
+  "depth": 2,
+  "edges": 12,
+  "kind": "regular3",
+  "order": 26,
+  "seed": 1002013791,
+  "sha": "5dcd1047d310cceb7bc71bfb760437d7fc4a5e25787a5ea4a3f3eb2d0258229f",
+  "size": 8
+ },
+ "held_out-8-regular3-p3-r0": {
+  "depth": 3,
+  "edges": 12,
+  "kind": "regular3",
+  "order": 80,
+  "seed": 1007641684,
+  "sha": "57776d0bd2035aa614282dd3316f6a44d9ee971a2b8b00509e05cd96b241b046",
+  "size": 8
+ },
+ "held_out-8-regular3-p3-r1": {
+  "depth": 3,
+  "edges": 12,
+  "kind": "regular3",
+  "order": 107,
+  "seed": 2868994808,
+  "sha": "2f451ddf00f0d4d70b5a09c2f4d83084425c19323020b66b29adc1e9f63eaaae",
+  "size": 8
+ },
+ "held_out-8-regular3-p4-r0": {
+  "depth": 4,
+  "edges": 12,
+  "kind": "regular3",
+  "order": 134,
+  "seed": 177214816,
+  "sha": "bbc6b252c8f33532be0783af352418350e005459c3da2d6ed339ab41b6af3319",
+  "size": 8
+ },
+ "held_out-8-regular3-p4-r1": {
+  "depth": 4,
+  "edges": 12,
+  "kind": "regular3",
+  "order": 53,
+  "seed": 2987772555,
+  "sha": "82c58b3c2724c02a0545fcec92b3809bd50b20d4e1178ce844d7120816d084e2",
+  "size": 8
+ },
+ "held_out-8-regular4-p1-r1": {
+  "depth": 1,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 6,
+  "seed": 1704961716,
+  "sha": "4744f2bbb5447127416caf8300ab4a5f24d31b917c2f8bf7f2e6716f5820175b",
+  "size": 8
+ },
+ "held_out-8-regular4-p1-r2": {
+  "depth": 1,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 87,
+  "seed": 2123002978,
+  "sha": "4674b9e1a786cec61723ef94fa8ce5fb936ce4ca165a131eec84f785a3306704",
+  "size": 8
+ },
+ "held_out-8-regular4-p2-r1": {
+  "depth": 2,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 33,
+  "seed": 3585513016,
+  "sha": "72b6b4538b79e7e50394550b961c8d0f9102108545e0ad3718ae3800346773be",
+  "size": 8
+ },
+ "held_out-8-regular4-p3-r1": {
+  "depth": 3,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 114,
+  "seed": 1292347579,
+  "sha": "59b01b99e1df479ad63612fd3bf35feaf70533bda3c2ebfc01876b730a018520",
+  "size": 8
+ },
+ "held_out-8-regular4-p3-r2": {
+  "depth": 3,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 60,
+  "seed": 793763517,
+  "sha": "ee3be2a3d5dde11d4c9c58865cf0c76a657965fa852ddae44349475629535426",
+  "size": 8
+ },
+ "held_out-8-regular4-p4-r2": {
+  "depth": 4,
+  "edges": 16,
+  "kind": "regular4",
+  "order": 141,
+  "seed": 248557175,
+  "sha": "3c43c30df0881342fe3adaba26d397187a373f2839fa474fece68af230bae54c",
+  "size": 8
+ }
+}

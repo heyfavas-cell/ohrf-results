@@ -1,0 +1,326 @@
+{
+  "dev-10-erdos_renyi-p3-r0": {
+    "depth": 3,
+    "edges": 16,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 1883999920,
+    "sha": "ced3cac043be3d3ec4b2527472e6012f2df04ace579cd5dfdd50fae71c08e5f5",
+    "size": 10
+  },
+  "dev-10-regular3-p1-r0": {
+    "depth": 1,
+    "edges": 15,
+    "kind": "regular3",
+    "order": null,
+    "seed": 2968464325,
+    "sha": "e1eb3795c51aaa01d0b56b07c228858e6ee27e5cd717447c2d70731b528dff41",
+    "size": 10
+  },
+  "dev-10-regular3-p4-r0": {
+    "depth": 4,
+    "edges": 15,
+    "kind": "regular3",
+    "order": null,
+    "seed": 2507655389,
+    "sha": "43f017aa8708aee9ee8dfa24c57a1eb0fdb2eb62e6da337b52fbc25e29306860",
+    "size": 10
+  },
+  "dev-10-regular4-p2-r0": {
+    "depth": 2,
+    "edges": 20,
+    "kind": "regular4",
+    "order": null,
+    "seed": 1175586487,
+    "sha": "f110face84817da855694f18bac9d1529dc78efd1c2a3676a5469bc3aaa52f0e",
+    "size": 10
+  },
+  "dev-12-erdos_renyi-p2-r0": {
+    "depth": 2,
+    "edges": 16,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 2380574275,
+    "sha": "0d96fe2a062ce828bec0b46e1354cbd47c01058978a2411760866e14383c5d89",
+    "size": 12
+  },
+  "dev-12-regular3-p3-r0": {
+    "depth": 3,
+    "edges": 18,
+    "kind": "regular3",
+    "order": null,
+    "seed": 2557597088,
+    "sha": "27315eca09a599b537d2f0c7c20eb35005985c7b189bc3f96afc39de61897240",
+    "size": 12
+  },
+  "dev-12-regular4-p1-r0": {
+    "depth": 1,
+    "edges": 24,
+    "kind": "regular4",
+    "order": null,
+    "seed": 154915116,
+    "sha": "788e89b5e555463864d7b52a1c49849b3dfe250c3d73bb7a24627a67aeee90a6",
+    "size": 12
+  },
+  "dev-12-regular4-p4-r0": {
+    "depth": 4,
+    "edges": 24,
+    "kind": "regular4",
+    "order": null,
+    "seed": 347804901,
+    "sha": "12b754219a2e67d89365461d7ccb15474d5fd43614f65e6ba5db3ea479c9b2bb",
+    "size": 12
+  },
+  "dev-14-erdos_renyi-p1-r0": {
+    "depth": 1,
+    "edges": 19,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 997792757,
+    "sha": "c4875d3052f8f1b1d726b379a183e7a01e336c767600b29a1506ecaa06b6f1b1",
+    "size": 14
+  },
+  "dev-14-erdos_renyi-p4-r0": {
+    "depth": 4,
+    "edges": 24,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 1572171077,
+    "sha": "93d1f6b5ba29791478bb3956e80da4b11ffbb393cd268ffc561323ec3cdd3740",
+    "size": 14
+  },
+  "dev-14-regular3-p2-r0": {
+    "depth": 2,
+    "edges": 21,
+    "kind": "regular3",
+    "order": null,
+    "seed": 3606035731,
+    "sha": "3f2bf9f1699cd89dba77cb539afc1de1bbb36e54bffd420122bae7aaaf247eea",
+    "size": 14
+  },
+  "dev-14-regular4-p3-r0": {
+    "depth": 3,
+    "edges": 28,
+    "kind": "regular4",
+    "order": null,
+    "seed": 1466485596,
+    "sha": "0f78f3b47e7600cbcbb28bee629ce92565427f3b1926c7e2866987d9c2d9bde5",
+    "size": 14
+  },
+  "dev-16-erdos_renyi-p3-r0": {
+    "depth": 3,
+    "edges": 24,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 809216782,
+    "sha": "1dca45e74f6798ea4efcde1becf40a767955e50d46c65d229e4efea74b1c7dfa",
+    "size": 16
+  },
+  "dev-16-regular3-p1-r0": {
+    "depth": 1,
+    "edges": 24,
+    "kind": "regular3",
+    "order": null,
+    "seed": 2981829907,
+    "sha": "be39f487ea5b04de52b39715e56fc648392415a5de658aeb72005e13cfef93da",
+    "size": 16
+  },
+  "dev-16-regular3-p4-r0": {
+    "depth": 4,
+    "edges": 24,
+    "kind": "regular3",
+    "order": null,
+    "seed": 1011225800,
+    "sha": "e1084dcfc82752ddb1a1f108734930a70e1bbe4a79d3ce99529c9ee647e80005",
+    "size": 16
+  },
+  "dev-16-regular4-p2-r0": {
+    "depth": 2,
+    "edges": 32,
+    "kind": "regular4",
+    "order": null,
+    "seed": 4028052862,
+    "sha": "c06d4b7f082a647eda349e9fb222fc2457ba9e215bdab7f091a2c8bdc95486c0",
+    "size": 16
+  },
+  "dev-18-erdos_renyi-p2-r0": {
+    "depth": 2,
+    "edges": 32,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 3631382627,
+    "sha": "419448559aaa53fa8fd1642b92a6a3800615b6675cf115f7f0813bfa3d52251e",
+    "size": 18
+  },
+  "dev-18-regular3-p3-r0": {
+    "depth": 3,
+    "edges": 27,
+    "kind": "regular3",
+    "order": null,
+    "seed": 1648914846,
+    "sha": "482b29923db90d340d44ccbdc195ad24d1c918c3c2363e72e4f9d5bcf94aa868",
+    "size": 18
+  },
+  "dev-18-regular4-p1-r0": {
+    "depth": 1,
+    "edges": 36,
+    "kind": "regular4",
+    "order": null,
+    "seed": 649033103,
+    "sha": "40be9f1351a972423bf5de9286485dcadba63272454a1bdbc8b695709c620496",
+    "size": 18
+  },
+  "dev-18-regular4-p4-r0": {
+    "depth": 4,
+    "edges": 36,
+    "kind": "regular4",
+    "order": null,
+    "seed": 4112715319,
+    "sha": "f0e2f6bbe99615a3727ea26a2d2abe3660f23cd149c447478dfb8e7c76d1d3cb",
+    "size": 18
+  },
+  "dev-20-erdos_renyi-p1-r0": {
+    "depth": 1,
+    "edges": 41,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 3941543162,
+    "sha": "7aecbc76bfc6c1c8533797b8d03361daac4631f93ce4b1c8d2e6292f67c95250",
+    "size": 20
+  },
+  "dev-20-erdos_renyi-p4-r0": {
+    "depth": 4,
+    "edges": 36,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 3851032339,
+    "sha": "ab4395c9a31c5efa81276b7b165819f1d4a7bcb6df403d626c7874634875de50",
+    "size": 20
+  },
+  "dev-20-regular3-p2-r0": {
+    "depth": 2,
+    "edges": 30,
+    "kind": "regular3",
+    "order": null,
+    "seed": 3603654530,
+    "sha": "b33755bc40d0506ac7ebbd3b481351b4594824efc8080bfa9b2fdbe078fbfcde",
+    "size": 20
+  },
+  "dev-20-regular4-p3-r0": {
+    "depth": 3,
+    "edges": 40,
+    "kind": "regular4",
+    "order": null,
+    "seed": 2459535539,
+    "sha": "8a64b809a71531a2b2a31a6ddee40f3d00e952ecf15ff8491d12eacee6166a47",
+    "size": 20
+  },
+  "dev-22-erdos_renyi-p3-r0": {
+    "depth": 3,
+    "edges": 41,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 644220988,
+    "sha": "3026362a9b9dc564abbc75c67b3128fb65cbb194863a11d63bcf8412a5337fab",
+    "size": 22
+  },
+  "dev-22-regular3-p1-r0": {
+    "depth": 1,
+    "edges": 33,
+    "kind": "regular3",
+    "order": null,
+    "seed": 3291599566,
+    "sha": "72ec29a51d399d9895612fef0258524e7c8f21387d2f6e27afcdaef49ee033eb",
+    "size": 22
+  },
+  "dev-22-regular3-p4-r0": {
+    "depth": 4,
+    "edges": 33,
+    "kind": "regular3",
+    "order": null,
+    "seed": 1786620425,
+    "sha": "17c63b4c07917cd1085640fa02ee97dcb95bd762828b6e7bf37f0b84a96ad609",
+    "size": 22
+  },
+  "dev-22-regular4-p2-r0": {
+    "depth": 2,
+    "edges": 44,
+    "kind": "regular4",
+    "order": null,
+    "seed": 310478116,
+    "sha": "236b69842a8c621451a50948f269f278f21d246d42853d0092e027b53bfbbe41",
+    "size": 22
+  },
+  "dev-6-erdos_renyi-p2-r0": {
+    "depth": 2,
+    "edges": 13,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 3449897164,
+    "sha": "c99132d38dc9b75998635de33287736e647dcb8c5da46ad8a419ef90e1374c73",
+    "size": 6
+  },
+  "dev-6-regular3-p3-r0": {
+    "depth": 3,
+    "edges": 9,
+    "kind": "regular3",
+    "order": null,
+    "seed": 2573943347,
+    "sha": "1a40de36fcac29aa3925a40e8293c48390ec7837d5662f9570066a9b531b5c28",
+    "size": 6
+  },
+  "dev-6-regular4-p1-r0": {
+    "depth": 1,
+    "edges": 12,
+    "kind": "regular4",
+    "order": null,
+    "seed": 130551890,
+    "sha": "7679b226747c073280688f24515b03f92144997812343865357169333330af36",
+    "size": 6
+  },
+  "dev-6-regular4-p4-r0": {
+    "depth": 4,
+    "edges": 12,
+    "kind": "regular4",
+    "order": null,
+    "seed": 1627908398,
+    "sha": "a6b9ba741b10b7046e73436bae655b2a655b70a94a100cf403ad4827c1f7f6e2",
+    "size": 6
+  },
+  "dev-8-erdos_renyi-p1-r0": {
+    "depth": 1,
+    "edges": 17,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 861633217,
+    "sha": "9485e1fa209b7d7ede38741a82d8fc8a66739e6cf39cf95a68ae0b4d3368cbe7",
+    "size": 8
+  },
+  "dev-8-erdos_renyi-p4-r0": {
+    "depth": 4,
+    "edges": 11,
+    "kind": "erdos_renyi",
+    "order": null,
+    "seed": 1142480028,
+    "sha": "da9a31f57ec369d8bdb928e81cae5229cb3ce5af6cf5204dc78af4f56a955a71",
+    "size": 8
+  },
+  "dev-8-regular3-p2-r0": {
+    "depth": 2,
+    "edges": 12,
+    "kind": "regular3",
+    "order": null,
+    "seed": 250937096,
+    "sha": "e64f7cb957785c551025af8aa14ac2d4cab0956c26704167c642c88083cb8300",
+    "size": 8
+  },
+  "dev-8-regular4-p3-r0": {
+    "depth": 3,
+    "edges": 16,
+    "kind": "regular4",
+    "order": null,
+    "seed": 1072515886,
+    "sha": "c03f91d8ace08bd02f9dcd46b4ca46cbbd795fd3df7169b41c2ce3d95312da86",
+    "size": 8
+  }
+}
