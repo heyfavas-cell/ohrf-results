@@ -70,6 +70,15 @@ def main():
     print(f"frozen search configuration against its timestamped hash: {'matches' if config == stamped else 'DIFFERS'}")
     ok &= config == stamped
 
+    # Result 2: the audit's rule (code/qopt_audit/ledger.py) on its ledger. A row counts as a new wrong output only if
+    # every evidence condition holds and it duplicates no known issue; the verdict is fallback when none counts.
+    ledger = [json.loads(line) for line in Path("data/audit/ledger.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()]
+    counted = [r for r in ledger if r["cls"] == "wrong_output" and r["proved_twice"] and r["second_opinion_ok"]
+               and r["tolerance_ok"] and r["reproduces_latest"] and not r["lead"] and r["duplicate_of"] is None]
+    dups = sum(1 for r in ledger if r["duplicate_of"])
+    print(f"audit ledger: {len(ledger)} rows, {dups} duplicates of known issues, {len(counted)} counted; verdict {'fallback' if not counted else 'needs the full rule'}")
+    ok &= len(ledger) == 172 and dups == 170 and not counted
+
     sums = [line.split("  ", 1) for line in Path("SHA256SUMS").read_text(encoding="utf-8").splitlines()]
     wrong = [n for h, n in sums if hashlib.sha256(Path(n).read_bytes()).hexdigest() != h]
     print(f"SHA256SUMS: {len(sums) - len(wrong)} of {len(sums)} match")
