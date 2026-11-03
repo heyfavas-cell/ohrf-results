@@ -1,0 +1,15 @@
+{
+  "title": "Open Horizon Research Foundry: results",
+  "upload_type": "dataset",
+  "description": "Pre-registered, verified tests of quantum compilers, null results included. Result 1: a budgeted reordering of existing Qiskit, pytket and PyZX passes did not beat GUOQ on 145 fresh QAOA circuits (null). Result 2: an audit of Qiskit, pytket and PyZX found no new wrong output (fallback). Result 3: an AI triage test failed under its own rule. Each record, plan and data set is in the archive; run python check_results.py to re-check every result.",
+  "creators": [
+    {"name": "Favas.dev", "affiliation": "Open Horizon Research Foundry"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["quantum computing", "quantum compilers", "circuit optimization", "equivalence checking", "Qiskit", "pytket", "PyZX", "GUOQ", "QCEC", "pre-registration", "reproducibility", "null results"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/heyfavas-cell/ohrf-results", "relation": "isSupplementTo", "scheme": "url"}
+  ],
+  "notes": "Code is licensed under Apache-2.0 (LICENSE); data and reports under CC-BY-4.0 (LICENSE-DATA)."
+}

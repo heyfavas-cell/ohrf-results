@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite them as below."
+type: dataset
+title: "Open Horizon Research Foundry: results"
+authors:
+  - name: "Favas.dev"
+    affiliation: "Open Horizon Research Foundry"
+repository-code: "https://github.com/heyfavas-cell/ohrf-results"
+doi: "10.5281/zenodo.23906909"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+abstract: "Pre-registered, verified tests of quantum compilers, null results included: a null against GUOQ on fresh QAOA circuits, an audit of Qiskit, pytket and PyZX with no new wrong output, and an AI triage test that failed under its own rule."
+keywords:
+  - quantum compilers
+  - equivalence checking
+  - pre-registration
+  - null results
